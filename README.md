@@ -1,4 +1,4 @@
-![](\textured-wall-purple.jpg)
+![](https://github.com/jencodecraft/jencodecraft/blob/master/textured-wall-purple.JPG)
 
 ## Hi, I'm Jennifer 
 😄 Pronouns: she/her
